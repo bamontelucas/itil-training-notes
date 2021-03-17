@@ -1,7 +1,7 @@
 # ITIL 4 Training
 
 - [**About the course**](./01.%20About)  
-- [**About the course**](./About%20the%20course.md)  
-- [**Key concepts**](./Key%20concepts.md)
-- [**Four dimensions of Service Management**](./4%20dimensions%20of%20SM.md)
-- [**Service Value System (SVS)**](./Service%20Value%20System%20(SVS).md)
+    - [[**Key Concepts**]](./01.%20About/Key%20concepts.md)
+    - [[**Test details**]](./01.%20About/Test.md)   
+- [**Four dimensions of Service Management**](./02.%20The%Four%20Dimensions%20of%20Service%20Mangement%20)
+- [**Service Value System (SVS)**](./03.%20Service%20Value%20System)
