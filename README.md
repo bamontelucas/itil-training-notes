@@ -1,5 +1,5 @@
-# itil-training-notes
+# ITIL 4 Training
 
-- [Key concepts](/Key concepts.md)
-- [Four dimensions of Service Management](/4 dimensions of SM.md)
-- [Service Value System (SVS)](/Service Value System (SVS).md)
+- **Key concepts:** https://github.com/bamontelucas/itil-training-notes/blob/main/Key%20concepts.md
+- **Four dimensions of Service Management:** https://github.com/bamontelucas/itil-training-notes/blob/main/4%20dimensions%20of%20SM.md
+- **Service Value System (SVS):** https://github.com/bamontelucas/itil-training-notes/blob/main/Service%20Value%20System%20(SVS).md

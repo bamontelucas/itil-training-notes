@@ -3,6 +3,13 @@
 - não tem pegadinha, mas muito focada nos termos
 - exame do certificado em até 1 mês depois do curso
 
+## Orientações pra prova:
+
+1) webcam/notebook com capacidade de dar um 360º pros caras verem a sala;
+2) não colocar nada em cima da mesa (papel, caderno, nada);
+3) não ter mais ninguém na sala;
+4) não ler em voz alta/falar sozinho;
+
 ---
 
 # objetivo do curso
