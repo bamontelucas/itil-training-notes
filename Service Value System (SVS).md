@@ -52,7 +52,7 @@ Opportunity/demands triggers activities within the SVS that lead to value creati
     - create a foundation for shared culture across org (that discourages siloes)
 - svs supports many work approaches (lean, agile, etc.) with a flexible value-oriented operating model    
 
-# The ITIL Guiding Principles
+# The ITIL Guiding Principles (recommendations)
 
 > A guiding principle is a recomendation that guides an organization in ***all circumstances***
 
@@ -204,3 +204,58 @@ It requires an end-to-end visibility of how demand is captured and translated in
 4. Respect the time of the people involved
 5. Simple practices are easier to understand and follow
 6. Quick wins allow organizations to demonstrate progress and manage stakeholder expectations
+
+## 7. Optimize and Automate
+
+    Optimization refers to the action of making someting effective and useful
+
+1. understand and agree to the context
+2. asses the current state (of proposed optimization)
+3. agree to what the future state and priorities of the org should be
+4. ensure appropriate level of stakeholder engagement and commitment 
+5. execute the improvements iteratively
+6. continually monitor the impact of optimization
+
+---
+
+    Automation is the use of technology to perform a step or series of steps correctly and consistently with limited or no human intervention
+
+- automating helps orgs scale up and allows HR to be used for complex decision-making
+- can also mean standardizing and streamlining manual tasks to allow decisions to be made automatically
+
+### Applying
+
+- Simplify and optimize before automating
+- define your metrics
+- when optimizing and automating, consider the following guiding principles:
+    - progress iteratively (with feedback)
+    - keep it simple and practical
+    - focus on value
+    - start where you are
+
+## Principle interaction
+
+- ensure that the principles interact with and are dependant on each other
+- consider the relevance of each principle and how they apply together
+
+# Governance
+
+    Is a system where organization is directed and controlled
+
+- Evaluate
+    - the governing body evaluates the org regularly as stakeholder's needs and external circumstances evolve
+- Direct
+    - the governing body assigns responsibilities, directs the preparation and implementation of organizational strategy and policies
+- Monitor
+    - the governing body monitors the performance of the organization and its practices, products and services
+
+The government body needs to make sure that:
+- SVC and practices work in line with direction given
+- maintain oversight of the SVS
+- both gov body and management at all levels maintain alignment through a clear set of shared principles and objectives
+- the governance and management at all levels are continuallly improved to meet expectations of the stakeholders
+
+# Key takeawais
+- SVS includes SVC activities supported by org's universal and holistic practices
+- the guiding principles help orgs adopt and adapt itil
+- governance is realized through activities such as evaluate, direct and monitor
