@@ -3,6 +3,7 @@
 - it is a framework
 - não precisa fazer 100% a risca, vc adapta pro seu uso
 - ISO 20000
+- widely recognized framework
 
 ## Qualification
 - ITIL Managin Professional (MP)

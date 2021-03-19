@@ -6,6 +6,8 @@
 - Service Management Practices
 - Technical Management Practices
 
+---
+
 ## Continual Improvement (knowing level)
 
     recurring org activity performed at all levels to ensure that an org's performance continually meeets the stakeholder's expectations
@@ -49,6 +51,8 @@ key activities
 
     the practice is integral to the development and maintenance of every other practice as well as to the complete lifecycle of all services and the SVS itself
 
+---
+
 ## Information Security Management (recall level)    
 
     Purpose is to protect the information needed by the org to conduct its business. Includes understanding and managing risks to the confidentiality, integrity, and availability of information
@@ -67,19 +71,84 @@ the required security is established my means of policies, processess, behaviors
     - event management
     - procedures for tests 
 
+---
+
 ## Relationship Management (recall level)
     purpose is to establish and nurture the links between the organization and its stakeholders at strategic and tactical levels
 > identification, analysis, monitoring and continual improvement
 
 impacts much more planning than other SVC acitivities
 
+---
+
 ## Supplier Management (recall level)
 
-    purpose is to ensure that org's suppliers and their performances are managed appropriately to support the seamless provision of quality products and services
+    purpose is to ensure that org's suppliers and their performances are managed appropriately to support the **seamless provision** of quality products and services
 
-activities central
+### Central activities:
 - creating single point of visibility and control to ensure consistency
 - maintaining a supplier strategy, policy, and contract management information
 - negotiating and agreeing contracts and arrangements
 - managing relationships and contracts with internal and external suppliers
 - managing supplier performance
+
+>the supplier strategy defines the org's plan for how it will leverage the contribution of suppliers in the achievement of its overall service management strategy
+
+### Different types of supplier relationships:
+- insourcing
+- outsourcing
+- single source/partnership
+- multisourcing
+
+> a service integrator is recommended to manage all relationships
+
+### the organization should evaluate and select suppliers based on:
+
+- importance and impact of the value of the service provided to the business by the supplier
+- risk associated with using the service
+- cost of the service and its provision
+
+### Activities
+
+- supplier planning
+- evaluation of supplier and contracts
+- supplier and contract negotiation
+- supplier categorization
+    - strategic
+    - tactical
+    - commodity
+- supplier and contract management
+- warranty management
+    - activate warranty based on performance
+- performance management
+    - track and monitor key measures
+- contract renewal or termination
+
+---
+
+## Change enablement
+
+    purpose is maximize the number of successfull IT changes by ensuring that risks have been property assessed, authorizing changes to proceed, and managing the change schedule
+
+scope includes:
+- all it infra
+- apps
+- docs
+- processes
+- supplier relationships
+
+> all changes should be assessed by people who are able to understand the risks and the expected benefits
+
+> organizational change is people knowledge, while change enablement refers to products and services
+
+### types
+
+- standard changes (routine in acco)
+    - low risk
+    - pre authorized
+    - fully documented
+- normal changes
+    - need to be scheduled, assessed and authorized
+- emergency changes
+    - must be implemented as soon as possible
+    - should have same tests and documenation

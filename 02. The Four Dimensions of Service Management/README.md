@@ -3,7 +3,7 @@
 > ITIL defines 4 dimensions that are critical to the effective and efficient _**facilitation of value**_ to customers and other stakeholders
 
 1. [Organizations and people](./Organizations%20and%20people.md)
-2. [Informations and technology](./Information%20and%20technology.md)
+2. [Information and Technology](./Information%20and%20technology.md)
 3. [Partners and suppliers](./Partners%20and%20suppliers.md)
 4. [value streams and processes](./Value%20Streams%20and%20Processes.md)
 
